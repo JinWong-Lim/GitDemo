@@ -1,6 +1,6 @@
 package thkim.gitdemo;
 
-public class FireBat {
+public class Firebat {
     int hp;
     int attack;
     int armor;
